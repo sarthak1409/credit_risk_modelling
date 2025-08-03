@@ -5,6 +5,11 @@ CredSure is an interactive Streamlit web application designed to predict **credi
 ![App Screenshot](images/app_image.png)
 
 ---
+## 🔗 Live Demo
+
+You can try the app live here:  
+👉 [CredSure: Smart Credit Risk Modelling](https://sarthakmaddicreditriskmodeling.streamlit.app/)
+---
 
 ## 🚀 Features
 
