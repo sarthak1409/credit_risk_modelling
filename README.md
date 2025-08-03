@@ -2,7 +2,7 @@
 
 CredSure is an interactive Streamlit web application designed to predict **credit risk** based on user-provided personal and financial data. This tool uses a machine learning model to estimate the likelihood of default and generate a credit score and risk rating.
 
-![App Screenshot](images/app_screenshot.png)
+![App Screenshot](images/app_image.png)
 
 ---
 
@@ -46,7 +46,7 @@ credit_risk_modelling/
 │ └── README.txt 
 ├── images/
 │ ├── app_image.png 
-│ └── background_image.avif
+│ └── filters_format(webp)_quality(80).avif
 ├── notebook/
 │ └── credit_risk_notebook.ipynb 
 ├── main.py 
